@@ -8,32 +8,14 @@
 
 This is the documentation for the Employee App, a web application built with Next.js and other libraries. It manages employee information and provides features like adding, editing, and deleting employee records.
 
-## Table of Contents
-
-1. [Getting Started](#getting-started)
-
-   - [Installation](#installation)
-   - [Running the Development Server](#running-the-development-server)
-
-2. [Scripts](#scripts)
-
-   - [`dev`](#dev)
-   - [`build`](#build)
-   - [`start`](#start)
-   - [`lint`](#lint)
-
-3. [Dependencies](#dependencies)
-
-   - [Key Libraries and Packages](#key-libraries-and-packages)
-
-4. [Development Dependencies](#development-dependencies)
-
-5. [Configuration](#configuration)
 
 ## Getting Started
 
-### Installation
-
+### process
+   npm install
+   npm run start
+   npm lint
+   npm test
 ## dependencies
 
 ### key-libraries-and-packages
